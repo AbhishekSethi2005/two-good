@@ -23,6 +23,10 @@
 <img src="https://github.com/AbhishekSethi2005/two-good/assets/143688066/8be29b1b-88f1-436b-af0b-6d873382f7b3" alt="Product Page" style="border-radius: 15px; width: 100%; max-width: 600px;">
 <img src="https://github.com/AbhishekSethi2005/two-good/assets/143688066/2bf40108-c5a0-4416-8efa-db2e9c5f9f14" alt="Contact Page" style="border-radius: 15px; width: 100%; max-width: 600px;">
 
+<div style="text-align: center;">
+  <video src="https://github.com/AbhishekSethi2005/two-good/assets/143688066/554f7007-5428-4c66-8303-df8b9676e897" controls style="border-radius: 15px; max-width: 100%;"></video>
+</div>
+
 ## Acknowledgements
 
 🙏 Special thanks to Two Good Co. for providing the inspiration for this project.
